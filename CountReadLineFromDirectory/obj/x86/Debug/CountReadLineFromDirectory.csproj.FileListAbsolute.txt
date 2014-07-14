@@ -1,0 +1,5 @@
+C:\Users\Buket\AppData\Local\Temporary Projects\CountReadLineFromDirectory\bin\Debug\CountReadLineFromDirectory.exe.config
+C:\Users\Buket\AppData\Local\Temporary Projects\CountReadLineFromDirectory\bin\Debug\CountReadLineFromDirectory.exe
+C:\Users\Buket\AppData\Local\Temporary Projects\CountReadLineFromDirectory\bin\Debug\CountReadLineFromDirectory.pdb
+C:\Users\Buket\AppData\Local\Temporary Projects\CountReadLineFromDirectory\obj\x86\Debug\CountReadLineFromDirectory.exe
+C:\Users\Buket\AppData\Local\Temporary Projects\CountReadLineFromDirectory\obj\x86\Debug\CountReadLineFromDirectory.pdb
